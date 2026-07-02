@@ -1,7 +1,1 @@
-{
-  "status": "on",
-  "title": "<font color='#FF1493'>✨ <b>নতুন আপডেট বা নোটিশ</b> ✨</font>",
-  "msg": "<font color='#00FFCC'>🔥 <b>হে বন্ধু!</b></font><br><br>আমাদের অ্যাপে নতুন ধামাকা ফিচার যুক্ত করা হয়েছে। ডায়ালগটি বন্ধ করতে এবং প্রিমিয়াম সুবিধা পেতে নিচের বাটনে ক্লিক করো।<br><br><font color='#FFD700'>⭐ <i>সবচেয়ে দ্রুত এবং নিরাপদ সার্ভিস!</i> ⭐</font>",
-  "ok_url": "https://youtube.com",
-  "contact_url": "google.com"
-}
+{"status":true,"title":"অনলাইন নোটিশ","message":"অ্যাপটি ব্যবহার করতে ওকে চাপুন।","ok_link":"https://google.com","contact_link":"https://t.me/username"}
